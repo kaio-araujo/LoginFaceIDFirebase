@@ -1,2 +1,6 @@
 # LoginFaceIDFirebase
-Biometrics (FaceID, TouchID) login page UI with Firebase authentication Using SwiftUI 2.0
+
+Used : 
+  - Biometrics (FaceID, TouchID)
+  - Firebase authentication
+  - SwiftUI 2.0
